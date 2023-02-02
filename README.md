@@ -10,5 +10,8 @@ Following insights were achieved using SQL queries from the COvid Death data and
 6. Total population vs vaccinations 
 Theses insights were used to make Tableau dashboard for further Data Analysis.
 
+Link for Tableau dashboard:
+https://public.tableau.com/app/profile/nirali.anil.kulkarni/viz/CovidDashboard_16753069615400/Dashboard1
+
 
 
